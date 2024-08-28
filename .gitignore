@@ -1,0 +1,8 @@
+# Ignore the node_modules directory
+node_modules/
+
+# Other files or directories to ignore
+*.log
+*.env
+package-lock.json
+dist/

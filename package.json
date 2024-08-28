@@ -1,0 +1,20 @@
+{
+  "name": "ethiopian-date-picker",
+  "version": "1.0.0",
+  "description": "Ethiopian Date Picker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ethiopian",
+    "date",
+    "picker",
+    "habesha"
+  ],
+  "author": "Sewunet Abebaw",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.7.1"
+  }
+}
