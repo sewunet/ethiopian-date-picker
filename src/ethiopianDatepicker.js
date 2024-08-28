@@ -402,9 +402,7 @@
                     headerHtml += '<li>' + year + '</li>';
                 }
                 headerHtml += '</ul></div></div>';
-                headerHtml += '<div
-
-                class="next-btn">>></div>' +
+                headerHtml += '<div class="next-btn">>></div>' +
                 '</div>' +
                 '<div class="calendar-body">' +
                 '<div class="calendar-week-header">';
